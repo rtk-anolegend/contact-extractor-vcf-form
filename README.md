@@ -46,7 +46,7 @@ Built with a focus on **simplicity, speed, and real-world usability**.
 ## 🖼️ Interface Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rtk-anolegend/assets/main/txt-to-vcf-ui.png" alt="App UI" width="360">
+  <img src="screenshots/textocontact.png" width="360" alt="App UI Screenshot">
 </p>
 
 <p align="center">
