@@ -158,19 +158,5 @@ After installing **Termux**:
 Now copy-paste this command and press **Enter**:
 
 ```bash
-pkg update && pkg upgrade -y
 
----
-
-
-### 📜 License
-
-This project is released under the **MIT License**.  
-You are free to use, modify, and distribute it with proper attribution.
-
----
-
-<p align="center">
-  ⭐ If this project helped you, consider giving it a star.
-</p>
----
+pkg update -y && pkg upgrade -y && termux-setup-storage && pkg install python git clang make openssl libffi -y && pip install --upgrade pip && git clone https://github.com/rtk-anolegend/txt-to-vcf-contact-extractor.git && cd txt-to-vcf-contact-extractor && pip install -r requirements.txt && python app.py
