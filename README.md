@@ -103,7 +103,6 @@ Designed with a clear separation between frontend and backend.
 </p>
 
 ---
----
 
 ## 📱 Run on Android using Termux (Beginner Friendly)
 
@@ -140,11 +139,7 @@ This method is perfect for:
 3. Download & install **F-Droid**
 4. Open **F-Droid App**
 5. Search for **Termux**
-6. Install **Termux** (Terminal icon)
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="70" alt="Download">
-</p>
+6. Install **Termux** 
 
 ---
 
@@ -164,7 +159,11 @@ Now copy-paste this command and press **Enter**:
 
 ```bash
 pkg update && pkg upgrade -y
-## 📜 License
+
+---
+
+
+### 📜 License
 
 This project is released under the **MIT License**.  
 You are free to use, modify, and distribute it with proper attribution.
@@ -174,3 +173,4 @@ You are free to use, modify, and distribute it with proper attribution.
 <p align="center">
   ⭐ If this project helped you, consider giving it a star.
 </p>
+---
