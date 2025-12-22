@@ -103,7 +103,67 @@ Designed with a clear separation between frontend and backend.
 </p>
 
 ---
+---
 
+## 📱 Run on Android using Termux (Beginner Friendly)
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="90" alt="Android">
+  &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="90" alt="Terminal">
+</p>
+
+You can run this project **directly on an Android phone** using **Termux**.  
+👉 **Laptop / PC ki zarurat nahi hai**.
+
+This method is perfect for:
+- 📚 Students  
+- 👶 Beginners  
+- 📱 Mobile-only users  
+
+---
+
+### 🔹 Step 1: Install Termux (Correct & Safe Way)
+
+<p align="center">
+  <img src="https://f-droid.org/repo/icons-640/org.fdroid.fdroid.1014050.png" width="80" alt="F-Droid">
+</p>
+
+⚠️ **Important:**  
+❌ Play Store wala Termux **outdated** hota hai  
+✅ **F-Droid se install karna zaruri hai**
+
+#### 👉 Follow these steps carefully:
+
+1. Open your mobile browser (Chrome / Firefox)
+2. Go to 👉 **https://f-droid.org**
+3. Download & install **F-Droid**
+4. Open **F-Droid App**
+5. Search for **Termux**
+6. Install **Termux** (Terminal icon)
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="70" alt="Download">
+</p>
+
+---
+
+### 🔹 Step 2: Open Termux & Update System
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2099/2099058.png" width="70" alt="Update">
+</p>
+
+After installing **Termux**:
+
+1. Open the **Termux app**
+2. You will see a **black screen (terminal)**  
+   👉 This is normal
+
+Now copy-paste this command and press **Enter**:
+
+```bash
+pkg update && pkg upgrade -y
 ## 📜 License
 
 This project is released under the **MIT License**.  
